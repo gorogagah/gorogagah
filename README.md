@@ -1,4 +1,4 @@
-# Hi there! 👋 Goro here 🚀
+## Hi there! 👋 Goro here 🚀
 
 <!--
 **aak270/aak270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
