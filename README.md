@@ -1,6 +1,6 @@
 ## Hi there! 👋 Goro here 🚀
 
-<div>
+<p>
   <a href="#" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPlfQUyU28M1js62gBXu0--tyKFxsptzGFKEwFuqw4NJW6CcMgwB7jJabTYrdaeyoWbg&usqp=CAU" height="30">
   </a> &nbsp;
@@ -14,9 +14,11 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" height="30">
   </a> &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="#" target="_blank">
-    <img src="https://cdn.onlinewebfonts.com/svg/img_23554.png" height="31">
+    <img src="https://cdn.onlinewebfonts.com/svg/img_23554.png" height="30">
   </a>
-</div>
+</p>
+
+A remote-based fullstack engineer with 3 years of experience in website, frontend, and backend development. Currently, I'm working as a Fullstack Engineer at NSE Lorry Transport, based in Malaysia.  
 
 <!--
 Here are some ideas to get you started:
