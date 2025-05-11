@@ -1,7 +1,7 @@
 ## Hi there! 👋 Goro here 🚀
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPlfQUyU28M1js62gBXu0--tyKFxsptzGFKEwFuqw4NJW6CcMgwB7jJabTYrdaeyoWbg&usqp=CAU" height="30">](https://linktr.ee/gorogagah)&nbsp;
-[<img src="https://i.imgur.com/PxPbQO8.png" height="30">](#)&nbsp;
+[<img src="https://i.imgur.com/PxPbQO8.png" height="30">](https://medium.com/@gorogagah)&nbsp;
 [<img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" height="30">](#)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.onlinewebfonts.com/svg/img_23554.png" height="30">](#)
 
